@@ -1,8 +1,6 @@
 # lexical-and-semantic-comparison-of-transformers-for-paraphrasing
-Este respositorio es parte de mi trabajo final de fin de master. 
-This repository is part of my final master's thesis.
 
-It shows the evaluation and comparison in tasks of paraphrasing models with different architectures.
+This repository is part of my final master's thesis.It shows the evaluation and comparison in tasks of paraphrasing models with different architectures.
 
 The models used in the evaluation were:
 
